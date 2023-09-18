@@ -1,0 +1,157 @@
+!!! https://www.youtube.com !!!
+! keyboard icon
+www.youtube.com##.sbib_c.gsst_b
+! www.youtube.com###clarify-box
+
+!! short button !!
+! liks, dislike
+www.youtube.com###like-button > .ytd-reel-player-overlay-renderer
+! www.youtube.com###dislike-button
+! icon brand
+www.youtube.com###pivot-button
+! subscribe
+www.youtube.com##.ytd-reel-player-header-renderer > .ytd-subscribe-button-renderer
+!text
+! www.youtube.com##.ytd-reel-player-header-renderer.title
+! hastag
+www.youtube.com##.ytd-video-description-header-renderer.style-scope > .yt-formatted-string.yt-simple-endpoint
+www.youtube.com##.style-scope.content > a.yt-formatted-string:has-text(/^#/)
+! www.youtube.com##.ytd-video-primary-info-renderer.style-scope > .yt-formatted-string.style-scope.yt-simple-endpoint
+!! short button !!
+
+!! video !!
+! icon brand
+www.youtube.com##.iv-branding
+! more
+www.youtube.com##.ytp-chrome-top-buttons
+! sponosred
+www.youtube.com##.ytp-paid-content-overlay
+! button!
+! join
+www.youtube.com###sponsor-button
+! en
+www.youtube.com##[aria-label="Thanks"]
+www.youtube.com##[aria-label="Download"]
+! www.youtube.com##.ytd-download-button-renderer.style-scope
+www.youtube.com##[aria-label="Clip"]
+www.youtube.com##[aria-label="Subscribe"]
+! vi
+www.youtube.com##[aria-label="Cảm ơn"]
+www.youtube.com##[aria-label="Tải xuống"]
+www.youtube.com##[aria-label="Tạo đoạn video"]
+www.youtube.com##[aria-label="Đăng ký"]
+! button!
+! hastag
+www.youtube.com##.ytd-video-primary-info-renderer.super-title:has-text(/^#/)
+www.youtube.com##.ytd-video-primary-info-renderer > .yt-formatted-string.yt-simple-endpoint:has-text(/^#|^@/)
+www.youtube.com##span.yt-core-attributed-string--link-inherit-color:has-text(/^#|^@/)
+! www.youtube.com##.ytd-video-primary-info-renderer.style-scope.yt-simple-endpoint
+! www.youtube.com##a.bold.yt-formatted-string.style-scope.yt-simple-endpoint
+! YTB ADS Premium Music
+www.youtube.com###premium-upsell-text
+www.youtube.com###topic-link
+! info in wiki
+www.youtube.com###clarify-box
+! End-Card
+www.youtube.com##.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-playlist.ytp-ce-element
+www.youtube.com##.ytp-ce-channel.ytp-ce-element
+! paid comment chip
+www.youtube.com###paid-comment-chip
+!! video !!
+
+! donate chanal
+www.youtube.com###links-holder
+! ads
+www.youtube.com##.ytd-guide-renderer:nth-of-type(4)
+! footer
+www.youtube.com###copyright
+www.youtube.com###guide-links-secondary
+www.youtube.com###guide-links-primary
+!!! https://www.youtube.com !!!
+
+! https://music.youtube.com
+music.youtube.com##ytmusic-pivot-bar-item-renderer.ytmusic-pivot-bar-renderer.style-scope:nth-of-type(4)
+
+! https://www.google.com
+! keyboard icon
+www.google.com##.Umvnrc
+
+! https://www.reddit.com
+www.reddit.com##._2Z-LWN_PrkTncEM_mPuEW5._1tPpYVD73ugqp4k-VMFRki.HNozj_dKjQZ59ZsfEegz8._2tU8R9NTqhvBrhoNAXWWcP._2iuoyPiKHN3kfOoeIQalDT.Z_HUY3BUsGOBOtdmH94ZS._3Wg53T10KuuPmyWOMWsY2F
+
+! https://www.facebook.com
+! game menu
+www.facebook.com##.x1iyjqo2 > div:nth-of-type(1) > ul > li:nth-of-type(5)
+www.facebook.com##.x1iyjqo2 > div:nth-of-type(1) > ul > li:nth-of-type(7)
+! game nav
+www.facebook.com##.x9e5oc1.x1i64zmx.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2
+! game item menu
+www.facebook.com##div.xexx8yu.xx6bls6.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6:nth-of-type(2)
+! www.facebook.com##.xjkvuk6.x1pi30zi.xyamay9
+! hastag
+www.facebook.com##object
+!! reels !!
+! donate
+www.facebook.com###stars-ufi
+! like
+www.facebook.com##.x1xmf6yo.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619:nth-of-type(2) > .__fb-dark-mode
+! title
+www.facebook.com##.xh8yej3.x78zum5 > .__fb-dark-mode
+! subscribe
+www.facebook.com##.x1y1aw1k.x1swvt13 .x78zum5 > .x1e558r4
+!! reels !!
+! video - subscribe
+www.facebook.com##.xzt5al7.x78zum5.x6s0dn4 > .xsgj6o6.x1rg5ohu
+
+!! People You May Know !!
+! en
+www.facebook.com##[aria-posinset] [aria-label="See all"][href="/friends/"]:upward([aria-posinset])
+! vi
+www.facebook.com##[aria-posinset] [aria-label="Xem tất cả"][href="/friends/"]:upward([aria-posinset])
+!! People You May Know !!
+
+! https://anonyviet.com
+! navbar top
+anonyviet.com##.jeg_topbar
+! icon
+anonyviet.com##.jeg_midbar
+! breakingnews title
+anonyviet.com##.jeg_breakingnews
+! join t.me
+anonyviet.com##.code-block-16.code-block
+! author box spam
+anonyviet.com##.jnews_author_box_container
+! comment
+anonyviet.com##.wpd-form-wrap
+anonyviet.com##.akismet_comment_form_privacy_notice
+! popup post
+anonyviet.com##.active.jeg_popup_post
+! footer
+anonyviet.com##.footer-holder
+
+! 2023-06-06 https://stackoverflow.com
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2023-06-09 https://askubuntu.com
+askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! https://www.facebook.com
+||fsgn*.fna.fbcdn.net/*/*t**.gif$image
+www.facebook.com##span:has-text(/Nếu bạn đọc được bình luận này|ba mẹ bạn sẽ|bit.ly|link1s.com/)
+www.facebook.com##[href*="bit.ly"]
+www.facebook.com##[href*="link1s.com"]
+www.facebook.com##span:has-text(/facebookvni.com|ulink.asia|s.id/facebook-com|ldp.to/facebook/)
+www.facebook.com##[href*="facebookvni.com"]
+www.facebook.com##[href*="ulink.asia"]
+www.facebook.com##[href*="http://"][href*="/facebook"]
+www.facebook.com##.x1y1aw1k.xjkvuk6.x1qughib.x1q0g3np.x78zum5
+www.facebook.com##li > .x46jau6.x1n2onr6:has-text(/link1s.com/)
+www.facebook.com###stars-ufi
+www.facebook.com##div.x14l7nz5.xzboxd6.x1e56ztr.x1xmf6yo.x193iq5w.x2lah0s.xdt5ytf.x78zum5.1ja2u2z.x1n2onr6.x9f619:nth-of-type(2)
+www.facebook.com##.x1fey0fg.x1s688f.xvq8zen.x6prxxf.x1xmvt09.x1vvkbs.x13faqbe.xeuugli.x193iq5w
+
+! 2023-09-07 https://www.youtube.com
+www.youtube.com###suggested-action
+!www.youtube.com##.ytd-video-primary-info-renderer.yt-simple-endpoint
+!www.youtube.com##.yt-formatted-string.yt-simple-endpoint
